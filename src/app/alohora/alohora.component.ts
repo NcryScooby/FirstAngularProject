@@ -17,7 +17,7 @@ export class AlohoraComponent implements OnInit {
   }
 
   digaAlo(){
-    alert('alo');
+    alert('alou');
   }
 
 }
